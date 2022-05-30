@@ -1,0 +1,532 @@
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CASE: M-365 
+DATE: 11/02/16 
+ 
+ 
+Debra Schifrin and Professor Jennifer Aaker prepared this case as the basis for class discussion rather than to 
+illustrate either effective or ineffective handling of an administrative situation. 
+ 
+Copyright © 2016 by the Board of Trustees of the Leland Stanford Junior University. Publicly available cases are 
+distributed through Harvard Business Publishing at hbsp.harvard.edu and The Case Centre at thecasecentre.org; 
+please contact them to order copies and request permission to reproduce materials. No part of this publication may 
+be reproduced, stored in a retrieval system, used in a spreadsheet, or transmitted in any form or by any means –– 
+electronic, mechanical, photocopying, recording, or otherwise –– without the permission of the Stanford Graduate 
+School of Business. Every effort has been made to respect copyright and to contact copyright holders as 
+appropriate. If you are a copyright holder and have concerns, please contact the Case Writing Office at 
+businesscases@stanford.edu or write to Case Writing Office, Stanford Graduate School of Business, Knight 
+Management Center, 655 Knight Way, Stanford University, Stanford, CA 94305-5015. 
+ 
+
+ 
+THE INNOVATION PLAYBOOK: 
+LANDS’ END: ENVISIONING THE NON-OBVIOUS  
+ 
+ 
+I want to lead this amazing American iconic company to become a meaningful global lifestyle 
+brand. 
+—Federica Marchionni, Lands’ End CEO, July 2016.1 
+INTRODUCTION 
+In 2015, Federica Marchionni left her position as the President of Dolce & Gabbana USA to 
+become the CEO of Lands’ End.  She came with a mandate to drive the $1.4 billion iconic 
+American clothing company into the next era.  Marchionni had been buying her son’s school 
+uniforms from Lands’ End every year, but had never imagined that the company would be 
+calling her for the CEO position.  It was a non-obvious selection for the company—which 
+focused on quality, affordable clothing—and a non-obvious career choice for Marchionni for 
+those unfamiliar with her career path.  She had started in the tech industry, moved into the 
+luxury/lifestyle arena and then into couture and high fashion.  Inspired by Lands’ End’s name, 
+history, and philanthropy, she saw a huge opportunity to use the tools she had gained in her past 
+experiences at Samsung, Ericsson, Dolce & Gabbana, and Ferrari and apply them to Lands’ End 
+to create a meaningful brand and a sense of purpose.  She had a good foundation to start from: 
+the company, founded over 50 years earlier, had an attractive, large, and loyal customer base; a 
+strong brand heritage and DNA; and a solid financial position.  However, the message coming 
+from both the financial and commercial markets was that the company had to change with the 
+times.  As such, Marchionni wanted to evolve and innovate Lands’ End so it could rebuild the 
+product offer, delight loyal customers, and acquire new ones.   
+ 
+ 
+1 Interview with Federica Marchionni, February, 2016.  Subsequent quotations are from case author interviews 
+unless indicated otherwise. 
+Distributed by The Case Centre
+North America
+Rest of the world
+www.thecasecentre.org
+t +1 781 239 5884
+t +44 (0)1234 750903
+All rights reserved
+e info.usa@thecasecentre.org
+e info@thecasecentre.org
+case centre
+This case has been made available as part of the Stanford GSB free case collection www.thecasecentre.org/stanfordfreecases
+Usage permitted only within these parameters otherwise contact info@thecasecentre.org
+Taught by Patrick van Esch, from 31-Jan-2017 to 5-May-2017.  Order ref F289821.
+Purchased for use on the Marketing Management, at Moravian College.
+Educational material supplied by The Case Centre
+Copyright encoded A76HM-JUJ9K-PJMN9I
+Order reference F289821
+
+
+ 
+ 
+ The Innovation Playbook: Lands’ End: Envisioning the Non-Obvious   M-365 
+ 
+ 
+ p. 2 
+Forty-two percent of Lands’ End’s customers were suburban women between 35 and 54 who 
+were buying for themselves and their husbands and children, and who had an average household 
+income of over $100,000.  While continuing to emphasize Lands’ End’s four pivotal values— 
+quality, honesty, value, and trust—Marchionni wanted to grow the customer base domestically 
+and globally.  As part of that goal, the company developed a brand architecture strategy.  It 
+added a premium brand called Canvas by Lands’ End, a sports brand called Lands’ End Sport, 
+and a Lighthouse by Lands’ End brand to be exclusively distributed at Sears.  In addition, she 
+expanded the product categories in shoes, accessories, and home goods.  To grow the business, 
+the company also developed new fits for different body shapes to attract more ethnically diverse 
+customers (see Exhibit 1).  Marchionni believed the company could attract the new generation 
+without alienating existing customers.  She said, “We know what can be appealing to new 
+customers, and I need to bring our loyal customers with me on a journey to reach the new Lands’ 
+End, and come with me step by step.”  This strategy also laid the groundwork for international 
+growth, as Marchionni explained, “If we could conquer the US market first, its ripple effects 
+would help us expand globally at an even greater speed.” 
+ 
+Given that the company had a majority direct digital business model, Marchionni wanted to drive 
+a technological revolution to rejuvenate its digital presence for a broader audience and grow 
+further in technological innovation and data utilization. She also shifted investment from 
+traditional advertising to more digital design ads and streamlined catalog circulation to make it 
+more efficient and simultaneously reduce carbon footprint.   
+ 
+Internally, Marchionni’s goal was to infuse talent into the company and promote teamwork.  But 
+taking the company in a new direction meant change, which was hard for any company.  So, in 
+addition to carrying out large-scale changes in strategy, Marchionni faced an even bigger 
+hurdle—changing mindsets within the organization—taking people from the past and the present 
+into the future and activating a culture of adaptability.   
+LANDS’ END’S CHALLENGE: LEADING THE COMPANY IN THE 21
+ST CENTURY 
+When joining Lands’ End, Marchionni immediately saw the complexity of the organization, 
+which had over 5,000 employees and a global presence.  It had all the demands of a public 
+company, including investor expectations and the need to strike the right balance between short-
+and long-term results.  Other complexities were the macroeconomic headwinds (including 
+currency fluctuations and erratic consumer spending behavior) and the adverse results of climate 
+change, as abnormal seasonal temperatures around the country had negatively impacted sales of 
+some items.  Marchionni said the company needed to create a sense of urgency to innovate and 
+respond to increasingly sophisticated and digitally savvy consumers—as well as the fierce 
+competition from new brands entering the market, both online and offline. Marchionni 
+immediately saw the need for a full transformation in infrastructure, people & processes, and in 
+the business.  She took action with a number of key initiatives, both short and long term, to start 
+building the bridge to invest for the success of the future. 
+LEADING WITH PURPOSE 
+A critical element of Marchionni’s leadership style was her passion for leading with purpose.  It 
+aligned perfectly with the DNA of Lands’ End.  When Gary Comer founded Lands’ End in 1963, 
+Usage permitted only within these parameters otherwise contact info@thecasecentre.org
+Taught by Patrick van Esch, from 31-Jan-2017 to 5-May-2017.  Order ref F289821.
+Purchased for use on the Marketing Management, at Moravian College.
+Educational material supplied by The Case Centre
+Copyright encoded A76HM-JUJ9K-PJMN9I
+Order reference F289821
+
+
+ 
+ 
+ The Innovation Playbook: Lands’ End: Envisioning the Non-Obvious   M-365 
+ 
+ 
+ p. 3 
+he followed this core philosophy: “Take care of the customer, take care of the employees, and 
+the rest will take care of itself.” Marchionni said that over 50 years later Comer still embodied 
+the common values that Land’s End shared with its customers and its community: “He had the 
+heart of a sailor.  With a passion for the land.  Who loved to give back.”  
+ 
+In Marchionni’s first 90 days at the company, she made sustainability one of her top priorities.  
+Lands’ End was determined to reduce its carbon footprint and engage in a number of 
+partnerships to do meaningful initiatives around sustainability, schools, education, and family 
+health.  For example, its LandsFriendly initiative, announced on Earth Day in 2015, included the 
+promise to plant one million trees in partnership with the National Forest Foundation.  On Earth 
+Day in 2016, the company encouraged its customers to “Take the Pledge to Plant,” and Lands’ 
+End gave a free tree “grow kit” on April 22 with every purchase by direct and retail customers.  
+For every tree that customers planted and registered at ForestNation.com/LandsEnd, the 
+company planted a tree in a developing nation through Forest Nation.  Lands’ End was also 
+committed to the study of Alcatraz Lighthouse Restoration Project to help preserve the historical 
+nautical landmark.  The original logo for Lands’ End was a lighthouse, and Comer was a 
+champion sailor and environmentalist.  In an education initiative, the company supported the 
+“Let Girls Learn” program, championed by the First Lady of the United States, which equipped 
+disadvantaged girls globally with the power of education and development.  Health initiatives 
+included support for foundations that worked to prevent cancer, partnering with organizations 
+such as the BCRF (Breast Cancer Research Foundation) and PCF (Prostate Cancer Foundation).   
+DESIGN FOR EMPATHY 
+For Lands’ End, Design for Empathy meant creating collections to attract different types of 
+customers, a key component of which was its brand segmentation strategy.  “Lands’ End” 
+targeted the company’s loyal customers—featuring its traditional clothing line, but with more 
+variety in clothing styles, shapes, quality of fabrics, and fits than it had before.  “Lands’ End 
+Sport” targeted performance and athleisure (athletic outfits also worn in other settings) and 
+included a new surf collection.  “Lighthouse by Lands’ End” products were sold inside Sears 
+stores to continue the commitment between the company and Sears.2 “Canvas by Lands’ End” 
+launched in April 2016 with the goal of creating a global reach and a halo effect that would bring 
+new customers to all Lands’ End brands (See Exhibit 2).  It featured modern styles and 
+international fits that appealed to diverse body shapes and ethnicities, but also had an elevated 
+design aesthetic that transcended cultures and borders.  Canvas was designed to attract new 
+customers and lure back forgotten customers, including mothers who had shopped Lands’ End 
+for their kids, but did not find clothing they liked for themselves, so they left the brand when 
+their kids grew old enough to choose their own clothes.  Lands’ End developed the collection in 
+Italy to create the same “wow factor” as high-end European brands, and manufactured the 
+products in Asia so it did not have to compromise Lands’ End’s value proposition of affordable 
+price and quality.   
+ 
+One of the company’s most high-profile styles of the summer 2016 season was its star-print 
+dress, part of the new Canvas line.  It had a white background with blue stars and red accents 
+ 
+2 Lands’ End was acquired by Sears in 2002 and was spun off in March 2014.  In 2014, Lands’ End became an 
+independent, publicly traded company on NASDAQ.  
+Usage permitted only within these parameters otherwise contact info@thecasecentre.org
+Taught by Patrick van Esch, from 31-Jan-2017 to 5-May-2017.  Order ref F289821.
+Purchased for use on the Marketing Management, at Moravian College.
+Educational material supplied by The Case Centre
+Copyright encoded A76HM-JUJ9K-PJMN9I
+Order reference F289821
+
+
+ 
+ 
+ The Innovation Playbook: Lands’ End: Envisioning the Non-Obvious   M-365 
+ 
+ 
+ p. 4 
+(see Exhibit 3).  Marchionni called it an American Dress. “It is my American dream; it embodies 
+the American dream.  And we approved it on July 4th.  It injects coolness into the brand.” The 
+dress had two styles: A-line with sleeves (for $175) and tubino ($155).  The fit was developed in 
+Italy and made in Turkey.  To develop the dress, Marchionni studied all the fashion trends of the 
+year, and saw that blue, white and red clothing was popular.  She then created her own version of 
+that trend, focusing on styles that were up-to-date.  Under her direction, an artist painted the 
+design, which became the print of the dress.  The styles became successful and were featured on 
+major TV outlets such as CNN, MSNBC, and Good Morning America.   
+ 
+According to Marchionni, one key to the success of the company’s new segmentation strategy 
+lay in the ability to cross-sell effectively amongst brands.  She said that cannibalization would 
+not occur because the brands had completely different target audiences: “In Canvas, you have a 
+very stylish shopper with a younger mindset.  The fit is closer to the body as a specific target.  So 
+the brands don’t have much overlap.” But, she added, “In addition, a woman who is buying 
+Lands’ End can maybe find something nice from Canvas, and a woman who buys Canvas 
+definitely can find something from Lands’ End because it’s a much broader offer.”  Lands’ End 
+tried a similar brand segmentation strategy in 2009 when it added a brand aimed at younger 
+shoppers—but it did not succeed.  Marchionni said the difference was that in the 2009 initiative, 
+the company changed the fit of the new brand to be closer fitting, but the clothes were still casual 
+and had the same functionality as the original brand.  Eventually there was cannibalization and 
+the company ended the initiative.   
+ 
+As Marchionni was building the segmentation strategy, designing with empathy was always in 
+the forefront of her decisions.  She reached out to different communities to create new products 
+and markets.  In June 2016, she launched a surfing clothing category.  She chose surfing because 
+it was connected to water like the nautical heritage of Lands’ End, but she wanted to go beyond 
+that in “conquering the young generation.” In conjunction with the launch, Lands’ End 
+sponsored a surfing event in partnership with GQ in Montauk, New York.  Marchionni said it 
+came about when she asked herself how Lands’ End could get close to the surfing community: 
+“It is not just that you want to do it and you have the product—you need to get customers, so you 
+need to go where they are and present yourself there and be approachable—to distribute the 
+product so people can buy it beyond our online and catalog.  And then when surfers know about 
+the products in the future, ideally, they will connect with us in those ways.”  To further reach 
+new audiences, Marchionni opened a successful pop-up store in Southampton during the key 
+summer vacation and traffic season.  The store focused on reaching new consumers and 
+introducing them to the new Canvas by Lands’ End and Sport lines.   
+ 
+Land’s End designed for empathy internally as well.  One example was its “Cup of Customer” 
+tradition, which was an email message that went out first thing every morning to Lands’ End 
+employees.  The emails contained notes and pictures from satisfied customers, and Lands’ End 
+described these as “pick me ups.” In one instance, a happy customer sent a picture of her five 
+daughters on the beach, all wearing matching Lands’ End blue bathing suits.  The note read, 
+“From five years ago—Probably the first and last time I got the girls to wear matching suits.” 
+The Lands’ End response to customers who sent notes was: “Your notes motivate us to keep 
+getting better.  Because when you’re happy, it means the world to us.” 
+Usage permitted only within these parameters otherwise contact info@thecasecentre.org
+Taught by Patrick van Esch, from 31-Jan-2017 to 5-May-2017.  Order ref F289821.
+Purchased for use on the Marketing Management, at Moravian College.
+Educational material supplied by The Case Centre
+Copyright encoded A76HM-JUJ9K-PJMN9I
+Order reference F289821
+
+
+ 
+ 
+ The Innovation Playbook: Lands’ End: Envisioning the Non-Obvious   M-365 
+ 
+ 
+ p. 5 
+The Catalog 
+Given that Lands’ End’s business was fundamentally centered on catalogs as a channel and 
+platform, it was an important place for the company to enhance its strengths and design for 
+empathy.  The company reinvented the catalog by elevating the aesthetic, content, and overall 
+presentation along with creating dynamic new product storytelling.  It reintroduced its powerful 
+storytelling throughout the catalog pages, revitalizing The “King of The Oxford” and introducing 
+the new “No Iron Empire” concept around its iconic dress shirts.  It also started moving away 
+from studio photography and injecting its catalogs with real, dynamic personality, adding 
+compelling narratives, and portraying an authentic, multi-generational and family-focused home 
+environment that struck a chord with customers.  To further connect to the core consumer during 
+the fall season, Lands’ End wrote a “letter” to customers from Marchionni and her team that was 
+published on the website and in the fall catalog, and also sent via email.  The message focused on 
+letting customers know that Land’ End was and would remain a trusted part of their lives.  Even 
+as the company continued to evolve, the trusted and iconic brand’s commitment to quality, 
+durability, and timeless style would never change.   
+ 
+According to Marchionni:  
+ 
+You innovate around your core.  Creating real, authentic moments in the 
+photography and powerful and interesting editorial content and product 
+storytelling.  Why? It’s very important that you start from who you are, so it is 
+real, and then you build from there and create meaningful content and 
+differentiation from others.  It allows for a more meaningful connection to your 
+audience if she can see herself in the story.   
+DESIGN THE STORY 
+Marchionni envisioned a new Lands’ End story that embodied her vision and strategy to build a 
+stronger foundation, enhance the company’s existing strengths, and evolve the company along 
+five key dimensions:   
+ 
+1) Product and Merchandising: Heighten product relevance and reinvigorate core customers.   
+ 
+2) Branding and Marketing: Foster brand awareness and strengthen brand identity. 
+ 
+3) Operations & Technology: Invest in infrastructure and upgrade technology.   
+ 
+4) Distribution: Penetrate distribution channels and unleash global market potential.   
+ 
+5) Talent: Continue developing & acquiring talent and excel through teamwork.   
+DESIGN TO SCALE: ACTION PLAN 
+Lands’ End was moving rapidly to put the strategy into action along each dimension (See 
+Exhibit 4). 
+ 
+Usage permitted only within these parameters otherwise contact info@thecasecentre.org
+Taught by Patrick van Esch, from 31-Jan-2017 to 5-May-2017.  Order ref F289821.
+Purchased for use on the Marketing Management, at Moravian College.
+Educational material supplied by The Case Centre
+Copyright encoded A76HM-JUJ9K-PJMN9I
+Order reference F289821
+
+
+ 
+ 
+ The Innovation Playbook: Lands’ End: Envisioning the Non-Obvious   M-365 
+ 
+ 
+ p. 6 
+1) Product and Merchandising 
+ 
+Lands’ End sought to evolve into a go-to brand for customers seeking quality, value, style, and 
+performance in products for all lifestyles and activities.  Core customers had always been the 
+highest priority, and Marchionni gave them the utmost attention to ensure their growing support 
+through updates to the core collection that were in keeping with the brand DNA.  Her mission 
+was to create the most timely yet timeless products with the best quality and value.  The focus 
+was on increasing product relevance and reinvigorating the assortment with greater design appeal 
+and innovation in traditional styles.   
+ 
+On the merchandising front, the company streamlined its strategy and built on best sellers and 
+key selling products.  Thus, it rationalized assortment of its current offerings—reducing SKU 
+count to make the collection more cohesive—and growing the percentage of sales of the top 
+products.  To support the strategy, Lands’ End underwent a global sourcing overhaul and grew 
+sell-through to reduce aged inventory.   
+ 
+Its merchandizing strategy also included capitalizing on high-ticket and high-margin categories: 
+(outerwear, activewear, swimwear, and footwear (see Exhibit 5).  For instance, Lands’ End 
+launched a visually stunning outerwear campaign in October 2015, drawing on an epic journey 
+to Alaska for inspiration (see Exhibits 6 and 7).  The collection was conceived with the ability 
+to cater to customers’ every need by temperature, material, silhouette, and functionality.  For the 
+summer 2016 collection, the company built the assortment around strong color and pattern 
+stories that resonated with customers, and introduced a new Swim Separates Collection with the 
+best seasonal colors, design, and innovation to make the offerings in beach living even more 
+compelling.  In addition, it introduced a new and elevated Lands’ End Sport line to serve 
+customers of all ages across a wide range of activities.  
+ 
+2) Branding and Marketing   
+ 
+Marchionni reinvigorated the company’s branding and marketing goals to increase traffic, 
+demand and conversion, and to better position the brand against increased competition.  In 
+addition to elevating the catalog, Marchionni wanted to grow Lands’ End’s social media 
+presence, which was still relatively new.  The company saw an increased following thanks to its 
+print and digital advertising campaigns shot by well-known American fashion photographers 
+Bruce Weber and Mario Testino.  These campaigns were widely publicized across major 
+publications in the United States, Europe and Asia.  The Lands’ End holiday campaign “We 
+Believe in You” by Weber was an ode to Lands’ End’s loyal customers and focused on 
+reinvigorating and engaging consumers in a holiday family story.  Testino’s talents, combined 
+with leveraging by actress Emma Roberts, were also aimed toward engaging new consumers and 
+changing perspectives (see Exhibit 8).  These campaigns strengthened the brand identity as an 
+iconic American hallmark and developed a strong editorial voice that spoke authentically to 
+multigenerational customers.  Moreover, Lands’ End’s Super Bowl initiatives and celebrity 
+endorsements served to grow its social media following, amplify awareness, and change 
+perceptions about the brand. In addition, Marchionni made impactful collection presentations in 
+three fashion capitals—New York, London, and Tokyo—to gain the acceptance of top media 
+influencers in each city to spread the message.   
+ 
+Usage permitted only within these parameters otherwise contact info@thecasecentre.org
+Taught by Patrick van Esch, from 31-Jan-2017 to 5-May-2017.  Order ref F289821.
+Purchased for use on the Marketing Management, at Moravian College.
+Educational material supplied by The Case Centre
+Copyright encoded A76HM-JUJ9K-PJMN9I
+Order reference F289821
+
+
+ 
+ 
+ The Innovation Playbook: Lands’ End: Envisioning the Non-Obvious   M-365 
+ 
+ 
+ p. 7 
+Marchionni encouraged the team to always conceive projects with a 360-degree mindset: “It is a 
+mindset that allows you think across all categories, markets, targets, functions, and channels.” 
+This was playing out as the company created a holistic global marketing campaign that 
+integrated all touch points: print and digital advertising campaigns; websites; social media and 
+digital partnerships; wholesale and retail initiatives; editorial projects and brand experience.  
+Lands’ End successfully launched multiple 360-degree campaigns to different target segments, 
+including a “Dear Mom” Mother’s Day campaign speaking to the loyal customer, a global social 
+partnership with Hearst Media, Elle, the Sartorialist and Vogue to speak to the new generation of 
+customers to launch the Canvas by Lands’ End brand; as well as Lands’ End Sport and Surf 
+campaigns to drive awareness in more season-less product categories.   
+ 
+3) Operations & Technology—Investing in Brand Architecture and Technology 
+ 
+The company planned to enhance technology infrastructure and improve order fulfillment across 
+digital platforms. Lands’ End partnered with leading tech players to transform its operating 
+platforms—thus better positioning itself to launch the expansion into wholesale, retail, and e-
+commerce. It also sought to dramatically enhance efficiency in merchandising, operations, 
+finance, accounting, and technology.   
+ 
+On the customer-facing side, Lands’ End dramatically enhanced the operational efficiencies and 
+search functionality of its website.  It also featured new storytelling content to increase sales, 
+especially cross-selling functionality.  It was laser focused on improving the online shopping 
+experience for both core and new customers.  In less than three months, it successfully debuted, 
+and adapted to, a modernized microsite featuring a much cleaner interface.  That site served as 
+the testing ground to launch a multi-branded architectural site six months later.  That site focused 
+on showcasing each brand segment differently from the loyal core consumer Lands’ End site and 
+showcasing key categories within the new Canvas by Lands’ End and Lands’ End Sport lines.  
+Consumers could cross shop all the brands and find something that was targeted and marketed 
+appropriately for them.  The company also enhanced the entire website to feature an improved 
+merchandising assortment and streamlined checkout process. The team also focused on 
+revamping their loyal customer emails to begin to drive stronger engagement through morning 
+emails featuring the daily customer-shared stories “Cup of Customer” as well as stronger product 
+and editorial storytelling.   
+ 
+In addition to revamping the website, the company unveiled the first shoppable digital catalog 
+and began developing its first-ever mobile app to make the shopping experience as consistent as 
+possible from all touchpoints.  Thanks in part to the improvements made in the design and 
+functionality of its mobile interface, Lands’ End began to see an increase in mobile traffic.   
+ 
+4) Distribution – Expanding to Reach New Consumers  
+ 
+Lands’ End identified a number of opportunities to expand distribution channels, and had started 
+that journey with initiatives such as its pop-up stores in 2015.  In just six weeks, the company 
+successfully built large-scale pop-up stores from the ground up that spanned up to 9,000 square 
+feet on Fifth Avenue in New York City and Copley Square in Boston (see Exhibit 9).  These two 
+pop-ups were modeled after a ski chalet concept and were designed to be a fun-filled family 
+shopping destination.  Customers were able to experience the brand and products first-hand, and 
+Usage permitted only within these parameters otherwise contact info@thecasecentre.org
+Taught by Patrick van Esch, from 31-Jan-2017 to 5-May-2017.  Order ref F289821.
+Purchased for use on the Marketing Management, at Moravian College.
+Educational material supplied by The Case Centre
+Copyright encoded A76HM-JUJ9K-PJMN9I
+Order reference F289821
+
+
+ 
+ 
+ The Innovation Playbook: Lands’ End: Envisioning the Non-Obvious   M-365 
+ 
+ 
+ p. 8 
+the company received over 133 million media impressions from these customers.  Following its 
+first foray, Lands’ End created additional pop-ups in 2016, with one prominently situated in the 
+Hamptons and another in the heart of Soho in New York.  All these locations were leveraged for 
+testing new products and visual merchandising, and they served as a global window into the 
+Lands’ End brand in high-traffic areas.   
+ 
+In addition to launching a series of retail expansions, the company announced that in the fall of 
+2016 it would be selling Lands’ End Sport, Footwear, and an edited collection of Canvas by 
+Lands’ End on Amazon.  This would provide an additional channel for Lands’ End to introduce 
+consumers to its new brands and expanded categories. 
+ 
+As for the Lighthouse by Lands’ End brand, the company successfully formed an alliance with 
+Sears to distribute the Lighthouse products exclusively at Sears stores nationwide—delivering 
+merchandise with the same quality and value guarantee to which Lands’ End customers were 
+accustomed.  Lands’ End launched a successful nine-store test in late 2015 and early 2016 to 
+showcase the Lighthouse brand, with a full rollout set to take place in fall 2016.   
+ 
+5) Talent – Aim High to Prepare for the Future 
+ 
+To design new collections, reinvigorate existing collections, and revitalize the organization, 
+Lands’ End was looking to elevate the internal talent while attracting industry veterans.  
+Marchionni’s approach was threefold.  A first goal was to protect the Lands’ End community, 
+human capital, and culture.  Second, the company would acquire best practices and expertise 
+through recruitment of select seasoned industry professionals.  Third, Marchionni and her team 
+would mentor the entire organization to adapt to a heightened mindset of speed and innovation.  
+In doing so, Marchionni blended industry know-how with the company’s own approach, 
+enhanced creativity, and created greater synergies between teams.  She spent half her time in 
+Lands’ End corporate headquarters in Dodgeville, Wisconsin, to nurture internal talent, and half 
+her time in New York City to merge global talent with the existing Lands’ End family.  
+ 
+A few notable hires included Joseph Boitano, an industry veteran with three decades of 
+experience at Bergdorf Goodman and Saks Fifth Avenue, who joined Lands’ End as the EVP of 
+design and merchandising.  Scott Hyatt, formerly an executive from J.Crew, was brought on as 
+the EVP of sourcing to overhaul the global supply chain structure.  Martin Cooper joined as the 
+creative director to bring design expertise from brands such as Burberry and Belstaff to the team.  
+At the same time Marchionni elevated internal talents, including Becky Gebhardt, who was 
+promoted to EVP, chief marketing officer; Mike Holahan, to SVP multi-channel marketing; and 
+Angie Reiger to SVP, planning/US direct.  
+ 
+Marchionni’s leadership philosophy to retain and improve talent included her belief that when 
+leaders of companies focused on perfection, using that as a bar to judge employees, that mindset 
+generally created a culture of fear of failing:   
+ 
+Companies who take this approach overlook the importance of empowerment and 
+positive reinforcement on employees.  It is much better to cultivate a culture that 
+strives for excellence—continually raising the bar for teams to improve their 
+Usage permitted only within these parameters otherwise contact info@thecasecentre.org
+Taught by Patrick van Esch, from 31-Jan-2017 to 5-May-2017.  Order ref F289821.
+Purchased for use on the Marketing Management, at Moravian College.
+Educational material supplied by The Case Centre
+Copyright encoded A76HM-JUJ9K-PJMN9I
+Order reference F289821
+
+
+ 
+ 
+ The Innovation Playbook: Lands’ End: Envisioning the Non-Obvious   M-365 
+ 
+ 
+ p. 9 
+performance and encouraging employees to engage in lifelong study, gather 
+knowledge, act swiftly, and take an analytical and research-driven approach. 
+Marchionni also held herself up as an example for her employees.  She said that throughout her 
+career as she had moved through companies and industries that were quite different, she studied 
+to obtain extensive knowledge in all those areas and learn how to adapt well to each one.  She 
+thrived on envisioning the non-obvious and adapting to changing conditions.  She consistently 
+challenged herself to enter new industries, explaining, “I took them as tremendous opportunities 
+to defy pre-conceptions, over-deliver in performance, and harvest success.”  She had been 
+harvesting that success throughout her career and believed she would do the same at Lands’ End. 
+CONCLUSION  
+Lands’ End was well on the way in its first major phase of a multi-year transformation—
+evolving toward becoming a truly meaningful global lifestyle brand through growth, 
+profitability, and adaptability.  Marchionni had a strong vision and leadership and, while pushing 
+forward as swiftly as possible, she was strategic in reading and reacting along the way, adjusting 
+and pivoting wherever necessary.  She was intensely focused on inviting the core consumer 
+along with her every step of the journey and on bringing new customers to complement the 
+Lands’ End family.   
+LANDS’ END POSTSCRIPT  
+On September 26, 2016, Lands’ End announced that Federica Marchionni had stepped down 
+from her role as chief executive officer and resigned as director.  Its board of directors appointed 
+Joseph Boitano and James Gooch as co-interim chief executive officers. Boitano served as 
+executive vice president and chief merchandising and design officer, and Gooch served as 
+executive vice president and chief operating and financial officer. Land’s End was considering 
+both internal and external candidates to replace Marchionni. 
+ 
+Josephine Linder, chairman of the board of Lands’ End, said: “On behalf of the entire board, I 
+want to thank Federica for her dedication and contributions to Lands’ End. Her Creative Vision 
+has helped Lands’ End begin its transformation as a global lifestyle brand with a broader 
+merchandise offering that is more relevant in today’s marketplace.”  
+ 
+ 
+Usage permitted only within these parameters otherwise contact info@thecasecentre.org
+Taught by Patrick van Esch, from 31-Jan-2017 to 5-May-2017.  Order ref F289821.
+Purchased for use on the Marketing Management, at Moravian College.
+Educational material supplied by The Case Centre
+Copyright encoded A76HM-JUJ9K-PJMN9I
+Order reference F289821
+

@@ -17,8 +17,8 @@ configuration = GPT2Config()
 model = GPT2Model(configuration)
 tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
 
-file_name = "penetrance.txt"
-output_file_name = f"{file_name.removesuffix('.txt')}_summary.txt"
+file_name = "mktg_case_1.txt"
+output_file_name = f"{file_name.removesuffix('.txt')}_summary"
 
 def read_file(file_path):
     with open(file_path, 'r') as f:
@@ -88,7 +88,7 @@ else:
 print(f"Counter: {counter_int}")
 
 # ! WRITE FILE
-with open(f"article-summaries/{output_file_name}_{counter_int}", 'w') as f:
+with open(f"article-summaries/{output_file_name}_{counter_int}.txt", 'w') as f:
     # call write function
     f.write(all_responses)
 
