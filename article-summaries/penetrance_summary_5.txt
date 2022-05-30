@@ -1,0 +1,72 @@
+-
+
+Penetrance is a term used to describe whether or not there is a clinical expression of the genotype in the individual, while expressivity is the term that describes the differences observed in the clinical phenotype between two individuals with the same genotype. In recent years, it has become evident that there is much in common between the classical Mendelian traits in which the inheritance has been seen as “simple” and most of the common diseases in which the inheritance is “complex.”
+group, the autosomal-dominant glaucomas are characterized
+by a slow and progressive loss of nerve fibers in the optic nerve.
+The most common form of autosomal-dominant glaucoma is
+the primary open angle glaucoma (POAG).9 The penetrance of
+the disease is incomplete and may be as low as 50% in some
+families.10 Incomplete penetrance has been observed also for
+other forms of autosomal-dominant glaucoma such as normal tension glaucoma11 and pigmentary dispersion syn-
+drome.12 The influence of an allele in trans on the expression of an autosomal dominant mutation was demonstrated by a study that showed that only those families with POAG had reduced penetrance when compared to families with other types of familial glaucomas.13 This observation suggests that alleles at different loci can modify the phenotype caused by mutations at another locus.
+
+This article discusses various reasons why a mutation may not be fully penetrant, including mosaicism, premutation, sex limitation, and the influence of an allele in trans. one  of  the  two alleles,  depending  on  their parental
+origin.16,17 The best-characterized imprinted genes are those lo-
+cated in the Beckwith Wiedemann syndrome (BWS) region on
+chromosome 11p15.5.18 In humans, loss of function of either the
+maternal allele of KCNQ1OT1 or paternal allele of CDKN1C re-
+sults in BWS.19–21 Both genes are normally expressed from the pa-
+ternal allele and silenced from the maternal allele by methyla-
+tion at different CpG sites within their promoters. Uniparental disomy for chromosome 11 is associated with a high risk for developing cancer during childhood.22 Therefore, it has been proposed that imprinting evolved as a mechanism to ensure equal expression from both parental alleles and to prevent genomic instability and tumorigenesis resulting from uniparental disomy.23
+
+This article discusses various mechanisms that can explain incomplete penetrance, including pseudo-incomplete penetrance, sex limitation, influence of the allele in trans, influence of a modifier gene, digenic inheritance, imprinting, and influence of environmental factors. ion of the mutation in the first child.
+Achondroplasia
+Achondroplasia is a disorder characterized by short stature,
+shortening and deformities of the long bones, and macrocephaly.22
+The severity of this phenotype may vary from mild to severe. In-
+dividuals with a very mild form have been reported who were not
+diagnosed until adulthood when they had children with more se-
+vere forms of the disease.23 The diagnosis was made on clinical ex-
+aminationofbothparentsandtheirchildrenandwasmolecularly
+confirmed by sequencing the FGFR3 gene that showed a G1138A tran-
+sition in all affected members of three generations. These observations 
+suggest that both parents were carriers of the mutation and that their chil-  dren inherited it from both parents, which would explain why some chil-  dren are more severely affected than their parents.”rosis
+Males with cystic fibrosis may present with infertility due to
+absence of the vas deferens.29 This particular clinical feature is
+not seen in females and it has been suggested that the reason is
+the different levels of androgen receptor between males and fe-
+males.30 The androgen receptor is necessary for the development
+of the Wolffian ducts, which give rise to the epididymis, vas de-
+ferens, seminal vesicles, and ejaculatory ducts. In females, es-
+trogens downregulate the expression of this receptor during de-
+velopment leading to a lower level in adulthood. Therefore, a re-
+syndrome
+Progressive osseous heteroplasia is a rare autosomal-domi-
+nant disorder characterized by the development of ectopic ossi-
+fication in subcutaneous and deep tissues.33 Albright’s syndrome,
+also known as pseudohypoparathyroidism type Ia, is an auto-
+somal-dominant disease characterized by short stature, obesi-
+ty, brachydactyly, and mental retardation. Both disorders are due
+to mutations in the GNAS1 gene that encodes the Gsa protein.34
+
+The clinical presentation of these two disorders differs de-
+pending upon which parent transmits the mutation: if the mu-
+tation is inherited from the father, only progressive osseous het-
+eroplasia is observed; if transmitted by the mother, only Albright’s 
+syndrome is observed. This difference is explained by imprinting: 
+the GNAS1 gene is subject to paternal imprinting (only the pater-imer LH, Ptacek LJ. Nonpenetrance in
+myotonic dystrophy: a study of 100 families. Neurology 1992;42:1271–1275.
+4.
+Fischbeck KH, Busch DF, Daube JR Jr, Day JW Jr, Meola G, Pascuzzi RM, et al. A clinical and molecular review of myotonic dystrophy type 2 (DM2). Muscle Nerve 2001;24:1047–1053.
+5.
+Lambert-Eaton myasthenic syndrome Foundation website http://www.lemsfoun-dation.org/about_lems/what_is_lems/. Accessed August 15, 2003amanolis DP, Trifillis AL, Schulman H. Uniparental disomy in Angel-
+man syndrome: confirmation by DNA polymorphisms and implications for genetic
+counseling. Am J Hum Genet 1990;46:1161–1167.
+19.
+Williams CA, Beuten J, Clayton-Smith J, Driscoll DJ. The clinical features of Ange-
+lman syndrome: a review of 150 cases. Am J Med Genet A 2003;120A:428–438.
+20.
+Fukuyama Y, Tachibana M, Sugiyama N, Kobayashi KI, Matsumoto N. Clinical fea-
+tures of Angelman syndrome associated with uniparental disomy of chromosome 15q11–13 region and review of the literature [see comments]. Am J Med Genet 1998;79:316–320
+
+This article discusses the various molecular pathologies that can lead to Facioscapulohumeral dystrophy (FSHD), a regional myopathy characterized by muscle weakness and wasting starting in the face and shoulders. It describes how this disease can be caused by mutations in either the D4Z4 repeat sequence or the SMCHD1 gene, both of which are located on chromosome 4q35. It also reviews other conditions that may cause similar symptoms (e.g., Sherman paradox) and discusses possible treatments for FSHD based on its underlying molecular pathology

@@ -1,0 +1,73 @@
+-
+
+Penetrance is a term used to describe whether or not there is a clinical expression of the genotype in the individual, while expressivity is the term that describes the differences observed in the clinical phenotype between two individuals with the same genotype. In recent years, it has become evident that there is much in common between the classical Mendelian traits in which the inheritance has been seen as “simple” and most of the common diseases in which the inheritance is “complex.”
+group, the autosomal-dominant glaucomas are characterized
+by a slow and progressive loss of nerve fibers in the optic nerve.
+The most common form of autosomal-dominant glaucoma is
+the primary open angle glaucoma (POAG).9 The penetrance of
+the disease is incomplete and may be as low as 50% in some
+families.10 Incomplete penetrance has been observed for many
+of the different genetic loci associated with POAG.11,12 A recent
+study showed that mutations at the MYOC gene (6p21) are re-
+sponsible for only about 10% of all familial cases of POAG.13 Of-
+ten, more than one family member will have evidence of early or 
+mild disease but not progress to advanced stages requiring treat-
+
+This article reviews various mechanisms that may lead to incomplete penetrance in mendelian disorders. These include: mosaicism, premutation, sex limitation, influence of an allele in trans, and reduced expressivity. one  of  the  two alleles,  depending  on  their parental
+origin.16,17 The best-characterized imprinted genes are those lo-
+cated in the Beckwith Wiedemann syndrome (BWS) region on
+chromosome 11p15.5.18 In humans, loss of function of either the
+maternal allele of KCNQ1OT1 or paternal allele of CDKN1C re-
+sults in BWS.19–21 Both genes are normally expressed from the pa-
+ternal allele and silenced from the maternal allele by methyla-
+tion at different CpG sites within their promoters. Uniparental disomy for chromosome 11 is associated with a high risk for developing cancer during childhood.22 Therefore, it has been proposed that imprinting evolved as a mechanism to ensure equal expression from both parental alleles and to prevent genomic instability and tumorigenesis resulting from uniparental disomy.23
+
+This article discusses various mechanisms that can explain incomplete penetrance, including pseudo-incomplete penetrance, sex limitation, influence of the allele in trans, influence of a modifier gene, digenic inheritance, imprinting, and influence of environmental factors. ion of the mutation in the first child.
+Achondroplasia
+Achondroplasia is a disorder characterized by short stature,
+shortening and deformities of the long bones, and macrocephaly.22
+The severity of this phenotype may vary from mild to severe. In-
+dividuals with a very mild form have been reported who were not
+diagnosed until adulthood when they had children with more se-
+vere forms of the disease.23 The diagnosis was made on clinical ex-
+aminationofbothparentsandtheirchildrenandwasmolecularly
+confirmed by sequencing the FGFR3 gene that showed a G1138A tran-
+sition in all affected members of three generations. These observations 
+suggest that both parents were carriers of the mutation and that their chil-  dren inherited it from both parents, which would explain why some chil-  dren are more severely affected than their parents.”rosis
+Males with cystic fibrosis may present with infertility due to
+absence of the vas deferens.29 This particular clinical feature is
+not seen in females and it has been suggested that the reason is
+the different levels of androgen receptor between males and fe-
+males.30 The androgen receptor is necessary for the development
+of the Wolffian ducts, which give rise to the epididymis, vas de-
+ferens, seminal vesicles, and ejaculatory ducts. In females, es-
+trogens downregulate the expression of this receptor during de-
+velopment leading to a lower number of receptors than in males.
+
+
+
+This article discusses how various factors can influence the severity of a monogenic disorder. These include: whether the mutant allele is present in cis or trans to a normal allele, whether another gene is involved, anticipation, and sex.
+syndrome
+Progressive osseous heteroplasia is a rare autosomal-domi-
+nant disorder characterized by the development of ectopic ossi-
+fication in subcutaneous and deep tissues.33 Albright’s syndrome,
+also known as pseudohypoparathyroidism type Ia, is an endocri-
+nological disorder characterized by short stature, obesity, brachydactyly, and mental retardation. Both disorders are caused by mutations in the GNAS1 gene that encodes the Gsa protein. The clinical presentation differs depending on whether the mutation is inherited from the father or mother. When transmitted by the father, only progressive osseous heteroplasia is observed; when transmitted by the mother, only Albright’s syndrome is observed. This difference in phenotype results from imprinting of the GNAS1 gene: only one allele (the paternally derived one) is active.
+
+This article discusses how different clinical presentations can be due to various factors such as molecular heterogeneity and environmental factors. It also briefly mentions how imprinting can play a role in determining which phenotype an individual will express.imer LH, Ptacek LJ. Dominant and re-
+cessive forms of myotonic dystrophy due to a CCTG expansion in different geno-
+types. N Engl J Med 1992;326:1169–1175.
+4.
+Lambert CP, Kennedy GC, Housman DE, Keutzer JH Jr. Variable expressivity of the
+myotonic dystrophy phenotype in males and females with the same CTG repeat length. Am J Hum Genet 1990;46:1021–1027.
+5.
+Friedberg T, Cohen T, Shiloh Y, et al. The familial form of ataxia telangiectasia is caused by mutations in a novel DNA repair gene ATM on chromosome 11q22-23 [see comments]. Nat Genet 1993;4:351–358.
+6.
+Piussan C, Bressac-de Paillerets B, Christin-Maitre S, et al.; French Ataxia Telangiectasia Group.. Clinical heterogeneity in families with ataxia telangiectasia associated with identical ATM gene mutations [see comments]. Lancet 1996;348:970–973amanolis DP, Trifillis AL, Schulman H. Uniparental disomy in Angel-
+man syndrome: confirmation by DNA polymorphisms and implications for genetic
+counseling. Am J Hum Genet 1990;46:1161–1167.
+19.
+Williams CA, Beuten J, Clayton-Smith J, Driscoll DJ. The clinical features of Ange-
+lman syndrome: a review of 150 cases. Am J Med Genet A 2003;116A:18–29.
+20.
+Fryns JP, Kleczkowska A, Van den Berghe HVBMRJGKPWZCXQYSAOEUIDTNLHGIKMQPWXSEUODITNHLGIJMZCPWYSEOIUFTNKLGHIJMOPQWSFEUIDTNKLGHIMNPQWSFEUIDTNKLGHIMNPQWSFEUIDTNKLGFIJMNPQUDSATONMLKIUFGHSDETONMLKIUFGTEDSONMLKIUFGTEDSONMLKIUFGTEDSONMLKIUFGTEDSOLMJIUGHTFDRSOMNJIUGHTFDRSOMNJIUGHTFDRSOMNJIUGHTFDRSONMJIGTHUDESONMJIGTHUDESONMJIGTHUDESONMJIGTHUESPMJIGHUSDFSPMNJIGHUSDFSPMNJIGHUSDFSPMNJIGHUSDFGPKNJIHUTGFGPKNJIHUTGFGPKNjihutgfgpknjihutgfgpknjihutgfgpknjihutgfpqwsxedcrfvtgbyhnujmikolp

@@ -1,0 +1,658 @@
+
+
+Penetrance and expressivity in the molecular age
+Joe¨l Zlotogora, MD, PhD
+Penetrance and expressivity have been defined through clinical experience. Although penetrance is often seen as
+the end of the spectrum of expressivity, penetrance and expressivity are considered as distinct phenomena. A
+review of the known mechanisms underlying either penetrance or expressivity reveals that in most of the cases the
+same explanation is true for both phenomena. Some of the known mechanisms include modifier genes, the
+influence of the allele in trans, sex, and environmental factors. Although rapid progress has been made in
+understanding of the basis of incomplete penetrance and the differences of expressivity, they still remain unknown
+for most of the genetic disorders. In recent years, it has become evident that there is much in common between
+the classical Mendelian traits in which the inheritance has been seen as “simple” and most of the common
+diseases in which the inheritance is “complex.” In both cases genetic and/or environmental factors are acting in
+a complex way. Genet Med 2003:5(5):347–352.
+Key Words: penetrance, expressivity, monogenic, Mendelian inheritance
+Penetrance is used to describe whether or not there is a clin-
+ical expression of the genotype in the individual. Expressivity is
+the term that describes the differences observed in the clinical
+phenotype between two individuals with the same genotype.
+With the advances in molecular genetics over the last few years,
+some of the underlying mechanisms have been unraveled.
+PENETRANCE
+“A genotype which may or may not produce a clinical trait is
+said to be incompletely penetrant.”1 The penetrance of a geno-
+type is defined by the probability that a person carrying it will
+present clinical manifestations. Only after a complete exami-
+nation finds no clinical signs of the syndrome in an obligate
+carrier, may it be concluded that the mutation is nonpenetrant
+in that individual. Penetrance has been until recently a term
+used almost exclusively for dominant disorders because anal-
+ysis of the pedigrees alone allowed one to diagnose healthy
+obligatory carriers. Incomplete penetrance was difficult to de-
+tect in recessive disorders because it is enough to be a carrier to
+transmit the disease. In recessive disorders, incomplete pen-
+etrance was suspected only in large pedigrees when the segre-
+gation ratio was significantly lower than the expected 0.25 after
+correction of the ascertainment bias. Recently, the existence of
+healthy homozygotes of recessive disorders has been demon-
+strated by molecular analysis showing that incomplete pen-
+etrance is also relevant in recessive disorders (Table 1).
+“Pseudo-incomplete penetrance”
+The definition of nonpenetrance depends upon the accuracy
+of the clinical phenotype analysis. In some cases, the observa-
+tion of nonpenetrance is inaccurate because the clinical exam-
+ination is incomplete, or the symptoms have not yet appeared
+at the time of the examination. Germ line mosaicism is a par-
+ticular example of pseudo-incomplete penetrance that is seen
+only in the first generation when the parents of several children
+affected with a dominant disease are healthy. The absence of
+symptoms in the parents is due to the presence of a mutation in
+the germ cells with or without a mosaicism in the somatic
+cells.2
+Facioscapulohumeral muscular dystrophy
+Facioscapulohumeral muscular dystrophy is an autosomal
+dominant disease with progressive muscular weakness with a
+characteristic pattern of involvement.3 More than 90% of the
+patients demonstrate clinical symptoms by the age of 20 years
+with higher penetrance in males. The disease is often caused by
+rearrangements in the gene FSHD1A. Several families have
+been reported in which both healthy parents with no familial
+history had more than one affected child. Molecular studies
+demonstrated that one of the healthy parents carried the mu-
+tation as a mosaicism in the germ line.2
+Premutation
+The incomplete penetrance in this case is due to the exis-
+tence of an intermediate state of the mutation, with no clinical
+expression. The mutation may change from one generation to
+another and therefore a normal individual with a premutation
+may have several affected children in whom the mutation is
+fully penetrant. The hallmark of this type of inheritance is that
+incomplete penetrance is present only in the early generations
+From the Department of Community Genetics, Public health services, Ministry of Health,
+Israel.
+Joe¨l Zlotogora, MD, PhD, Department of Community Genetics, Public Health Services, Min-
+istry of Health, Israel.
+Received: March 17, 2003.
+Accepted: May 21, 2003.
+DOI: 10.1097/01.GIM.0000086478.87623.69
+September/October 2003 � Vol. 5 � No. 5
+r e v i e w
+Genetics IN Medicine
+347
+
+
+
+whereas subsequent generations of affected individuals will
+show complete penetrance in their children.
+Fragile X syndrome
+The fragile X syndrome is the most common form of X-
+linked mental retardation. The clinical expression of the dis-
+ease is variable with mental retardation being the most com-
+mon feature. In general, mental retardation is more severe in
+the affected males than in the affected females. The observation
+that many obligatory carriers in families with the fragile X syn-
+drome are healthy was made before the knowledge of its mo-
+lecular basis. Sherman et al.4 reported the paradoxical obser-
+vation that among the children of normal carriers, the risk for
+mental retardation depends upon the sex of the carrier parent.
+Whereas the children of female carriers are often mentally re-
+tarded, the daughters of normal transmitting males are normal
+even though they are obligatory carriers of the mutation. The
+incomplete penetrance has been explained after the cloning of
+the FMR1 gene by the existence of premutation carriers who
+are clinically normal.5 The premutation expands to a full mu-
+tation almost exclusively through a female carrier.
+Sex limitation
+For some mutations, the clinical symptoms are present only
+in one sex. Sex limitation is often seen in disorders in which the
+expression of the disease is limited to organs found in only one
+of the sexes, such testis or ovaries.
+Steroid 5� reductase deficiency
+This is an autosomal recessive disorder in which the ho-
+mozygous females are normal and the homozygous males are
+either born with ambiguous genitalia or almost normal exter-
+nal female genitalia.6 During childhood the affected boys un-
+dergo various degrees of virilization. The mutated enzyme 5�
+reductase catalyzes the conversion of testosterone to dehy-
+drotestosterone in androgen sensitive tissues. Therefore, al-
+though affected males will present with abnormal external gen-
+italia, the affected females will be normal.
+Influence of the allele in trans
+In a dominant disorder, the clinical phenotype is present in
+the heterozygote. Either a polymorphism or a mutation of the
+allele in trans may lead to the incomplete penetrance of the
+dominant mutation.
+Retinitis pigmentosa
+Progressive visual loss, night blindness, and pigmentary
+deposition in the retina characterize retinitis pigmentosa. Ret-
+initis pigmentosa is genetically heterogeneous and has been
+associated with many genetic loci.7 In autosomal dominant
+retinitis pigmentosa due to mutations at the locus RP 11
+(19q13.4, gene RPP31), the penetrance is incomplete. A segre-
+gation study in families with a RP11 mutation demonstrated
+that the segregation of the allele from the noncarrier parent is
+not at random.8 This observation was highly significant and
+strongly suggests an influence of the wild-type allele on the
+expression of the mutated allele.
+Autosomal-dominant glaucoma
+Glaucoma is a leading cause of blindness and is usually clas-
+sified according to the anatomy and/or the age of onset. As a
+rule, the earlier the onset, the more severe the visual impair-
+ment. In a large pedigree with autosomal-dominant glaucoma
+caused by a mutation in the MYOC (TIGR) gene, several ho-
+mozygotes for the mutation were diagnosed by molecular
+studies among the children of two affected individuals.9 None
+of these children had any clinical symptoms of glaucoma. This
+was significantly different from the expected as observed in the
+other adult carriers of the mutation in the family when ad-
+justed for age. This finding is probably secondary to a domi-
+nant-negative effect of the mutation.
+Influence of a modifier gene
+The presence of a mutation/polymorphism at a locus differ-
+ent from the one causing the disease may alter the effect of the
+mutation and prevent its clinical manifestations.
+Autosomal-recessive deafness DFNB26
+Many different gene loci have been reported to be responsi-
+ble for nonsyndromic autosomal recessive hearing loss. In a
+large pedigree with autosomal-recessive deafness, linkage to
+the chromosomal region 4q31 was demonstrated.10 However,
+whereas all the affected individuals were homozygous for the
+same haplotype, homozygosity was also found in many unaf-
+fected siblings. By linkage analysis, the authors were able to
+demonstrate the existence of a dominant modifier (DFNM1)
+on chromosome 1q24. The presence of this modifier in an
+individual homozygous for the DFNB26 mutation leads to
+nonpenetrance and normal hearing.
+Digenic inheritance
+The term digenic inheritance was proposed to describe a
+situation in which the clinical expression depends upon the
+presence of two mutations in two different genes.
+Retinitis pigmentosa
+Mutations in the gene peripherin RDS are responsible for
+either autosomal recessive or dominant retinitis pigmentosa.11
+Table 1
+Examples of mechanisms explaining incomplete penetrance
+“Pseudo-incomplete penetrance”
+Premutation
+Sex limitation
+Influence of the allele in trans
+Influence of a modifier gene
+Digenic inheritance
+Imprinting
+Influence of environmental factors
+Zlotogora
+348
+Genetics IN Medicine
+
+
+
+In several families with a dominant form of retinitis pigmen-
+tosa, the mutation L185P in the RDS gene was nonpenetrant in
+many carriers that were detected by molecular analysis. It was
+demonstrated later that all the individuals affected with retini-
+tis pigmentosa were also carriers of a mutation in another un-
+linked gene ROM1. Both carriers of a single mutation, either
+L185P in periferin/RDS, or a null mutation in ROM1 were
+healthy. Only the carriers of both mutations (double heterozy-
+gotes) were clinically affected with retinitis pigmentosa.12 The
+explanation for these observations is that the encoded proteins
+of peripherin/RDS and ROM1 form homodimers that interact
+covalently with each other.13 Therefore, mutations in one allele
+of each of the genes lead to an abnormal complex and eventu-
+ally to retinitis pigmentosa.
+Bardet Biedl syndrome
+Bardet Biedl syndrome (BBS) is an autosomal-recessive disor-
+derincludingmentalretardation,obesity,polydactyly,andretinal
+degeneration.14Atleast7differentlociareknownandsomeofthe
+genes responsible have been characterized. Although segregation
+analyses in large families were compatible with a classical autoso-
+mal recessive inheritance, it seems that the picture may be more
+complicated.Severalofthepatientswerefoundtobehomozygous
+at one of the BBS loci and heterozygous at another BBS locus.15
+This digenic inheritance was referred as triallelic because it is a
+recessive disorder and the patients carry three mutations. This
+type of inheritance is responsible for some of the BBS cases, and it
+has been proposed that it may represent a more general explana-
+tion for some syndromes.15
+Imprinting
+Both parental genomes are essential for normal growth and
+development. In mice and later in humans, it was demon-
+strated that some of the genes are imprinted, expressed only
+from either the maternal or paternal chromosome. A mutation
+in one of these imprinted genes will be expressed only if present
+on the chromosome from the parent who transmits the active
+copy of the gene.
+Angelman syndrome
+Angelman syndrome is a disorder characterized by mental
+retardation, happy disposition, bursts of laugher, puppet-like
+movements, and wide-based gait.16 The syndrome may be
+caused by a deletion or uniparental disomy of the region
+15q11-q13 or by a mutation in the UBE3A gene. Carriers of
+mutations in the UBE3A gene may or may not present clinical
+symptoms depending upon the parent from whom they re-
+ceived the mutation.17 Only children who received the muta-
+tion from their mother present with symptoms of the syn-
+drome. Those children who received the mutation from their
+father are unaffected, but if they are females, they may transmit
+the disease to their offspring.
+Influence of environmental factors
+For some mutations, the affected individuals present symp-
+toms only after exposure to an environmental factor.
+Aminoglycoside-induced mitochondrial deafness
+Familial occurrence of hearing loss after a modest dose of
+streptomycin along with a mitochondrial inheritance has been
+observed in several families.18 The carriers of the mutation
+A1555G of the 12sRNA in the mitochondrial DNA are normal
+and only if there is a second event, such as exposure to amino-
+glycosides, will the individual be affected. Another probable
+second event is a mutation in the nuclear DNA. In several
+families, congenital deafness was observed without evident ex-
+posure to drugs, and linkage analysis suggested the existence of
+a modifier on chromosome 8.19
+EXPRESSIVITY: DIFFERENCES IN THE SAME PHENOTYPE
+Mutations in the same gene may cause different clinical
+symptoms and two different groups of expressivity may be
+distinguished. The same molecular genotype may present dif-
+ferences in either the severity of the same clinical phenotype or
+differences in the clinical presentation. It is probable that in
+many cases the combined influence of genetic and environ-
+mental factors leads to the difference in expressivity (Table 2).
+“Pseudo” differences in expressivity
+Homozygotization of a dominant mutation may give the
+impression of differences in expressivity because the pheno-
+type of the homozygote is often more severe than the one of the
+heterozygote. In a family in which an affected individual pre-
+sents with a severe form of a dominant disease, the possibility
+of homozygotization may be envisaged if both parents present
+symptoms. However, this possibility may not be evident either
+because of incomplete penetrance in one of the parents or uni-
+parental disomy in the child.
+Table 2
+Examples of mechanisms explaining differences in expressivity
+Differences in the same phenotype
+“Pseudo” differences in expressivity
+Influence of a polymorphism in cis
+Influence of the allele in trans
+Influence of another gene
+Anticipation
+Influence of the sex
+Somatic mosaicism
+Influence of environmental factors
+Differences in the clinical presentation
+Molecular heterogeneity
+Influence of a polymorphism in cis
+Imprinting
+Somatic mosaicism
+Penetrance and expressivity in the molecular age
+September/October 2003 � Vol. 5 � No. 5
+349
+
+
+
+Waardenburg syndrome
+Waardenburg syndrome type I is an autosomal-dominant dis-
+orderwiththeclassicaltriadofdeafness,pigmentarychangessuch
+as a white forelock, and dystopia canthorum.20 In a consanguin-
+eous couple with a family history of deafness, their first child pre-
+sented with the classical form of Waardenburg syndrome includ-
+ing a white lock and dystopia canthorum.21 The second child was
+born with a very severe form of the syndrome suggesting variable
+expressivity. However, clinical examination of the parents re-
+vealed that both had dystopia canthorum and were therefore af-
+fected.Theseobservationssuggestedthepossibilityofhomozygo-
+tizationofthechildthatwasdemonstratedbymolecularstudies.21
+Influence of a polymorphism present in cis
+Several polymorphisms/mild mutations have been reported
+that if they are combined in cis they may lead to a severe
+phenotype.
+Cystic fibrosis
+Patients with the genotype DeltaF508/R347H-D979A are af-
+fected with a severe form of cystic fibrosis including pancreatic
+insufficiency and severe pulmonary manifestations. However,
+the individual mutations R347H and D979A in the CFTR gene
+are known to be mild and as suggested by the clinical observa-
+tions, when combined in cis they act as a severe mutation.
+When these mutants were transiently expressed in HeLa cells,
+R347H was associated with defective chloride activity and
+D979A lead to misprocessing.22 The mutant R347H-D979A
+expressed both defects and dramatically reduced the chloride
+channel activity.
+Influence of the allele in trans
+Either a polymorphism or a mutation in the allele in trans may
+lead to the difference in the expressivity of a dominant mutation.
+Elliptocytosis
+Elliptocytosis is an autosomal-dominant hematological dis-
+order characterized by elliptically shaped erythrocytes and he-
+molytic anemia.23 The disorder results from mutations in one
+of the genes encoding for the red cell membrane skeleton in
+particular the �- and the �-spectrin genes. A relatively com-
+mon polymorphism lowers the �-spectrin gene expression (LE
+allele). Therefore when the LE allele is present in cis of the
+mutation for elliptocytosis, the product of the double hetero-
+zygote allele will be rejected and only the product of the normal
+allele will be incorporated. In this case, the polymorphism res-
+cues the individual from the elliptocytosis mutation. However,
+if the LE allele is present in trans of a mutation for elliptocyto-
+sis, it will result in a more severe clinical picture than the one
+found in patients with the mutation alone.24
+Influence of another gene
+The clinical presentation of a monogenic disorder may de-
+pend upon the presence of a mutation in another gene.
+Dominant glaucoma
+Mutations in the two genes MYOC and CYP1B1 have been
+characterized in some forms of glaucoma: MYOC in autosom-
+al-dominant open angle glaucoma and CYP1B1 in recessive
+congenital glaucoma.25,26 In a single large family, several indi-
+viduals affected with dominant glaucoma had mutations in
+both MYOC and CYP1B1.27 The clinical presentation was dif-
+ferent for patients with a MYOC mutation alone (mean age of
+onset 51 years) or when the mutation was present together
+with a CYP1B1 mutation (mean age of onset 27 years). These
+observations suggested that CYP1B1 acts as a modifier of
+MYOC and that the two genes interact through a common
+pathway.
+Anticipation
+Anticipation is a term used to describe the transmission of a
+dominant disorder with an earlier onset and more severe man-
+ifestations from one generation to the next.
+Myotonic dystrophy
+Myotonic dystrophy is an autosomal-dominant disorder
+with a wide range of clinical symptoms. The major clinical
+features include myotonia, cataracts, hypogonadism, frontal
+balding, and electrocardiographic changes. Some of the pa-
+tients also present with mental retardation. Anticipation was,
+at first, a clinical observation but that has been challenged, and
+it was thought to represent a selection bias. Later studies of
+families after exclusion of the index patients demonstrated an
+earlier onset and more severe phenotype among children of
+almost all of the parent-child pairs.27 At the molecular level, the
+disorders in which clinical anticipation is present are caused by
+dynamic mutations with anticipation being, at least in part,
+related to the expansion of the repeat number.28
+Influence of the sex
+The clinical presentation of a monogenic disorder may de-
+pend upon the sex of the affected individual. In some cases, a
+particular clinical symptom may be present in one sex only.
+Cystic fibrosis
+Among affected individuals females are usually fertile and
+males infertile because of bilateral aplasia of the vas deferens.29
+Congenital bilateral aplasia of the vas deferens is not a devel-
+opmental anomaly but a degenerative change of the vas defer-
+ens in males due to an obstruction similar to that which occurs
+in cystic fibrosis in the pancreas and other organs.
+Somatic mosaicism
+The presence of a mutation as a somatic and germinal mo-
+saicism often leads to a milder phenotype in the affected indi-
+vidual than in his children.2 The affected children present a
+more severe form of the disorder because the mutation is
+present in all of their cells.
+Zlotogora
+350
+Genetics IN Medicine
+
+
+
+Osteogenesis imperfecta type II
+Osteogenesis imperfecta is a heterogeneous group of disor-
+ders of the connective tissue characterized mainly by bone fra-
+gility and blue sclerae. Type II or osteogenesis imperfecta con-
+genita is a lethal autosomal-dominant disease. Several families
+have been reported in which individuals with a mild/moderate
+form of osteogenesis imperfecta had a child with the lethal
+form.2 Molecular analysis demonstrated that the differences in
+the clinical presentation were due to the presence of the muta-
+tion only as a mosaicism in the parent.
+Environmental factors
+In many metabolic diseases, the clinical presentation may
+depend upon the quantity of substrate in the diet.
+Hereditary fructose intolerance
+Many of the cases of fructose intolerance are severely ill in-
+fants with recurrent hypoglycemia and vomiting.30 This usu-
+ally occurs at the time of weaning when fructose or sucrose is
+added to the diet and results in marked malnutrition. How-
+ever, in some cases when fructose is added later and/or in small
+quantities, the symptoms may be much milder, with a general
+marked aversion to sweets and fruits.
+EXPRESSIVITY: DIFFERENCES IN THE CLINICAL
+PRESENTATION
+Molecular heterogeneity
+In some cases, the differences in the clinical presentation are
+secondary to molecular heterogeneity. Some mutations are re-
+sponsible for a more severe phenotype, whereas other muta-
+tions lead to a milder phenotype.
+Tay Sachs disease
+Tay Sachs disease is due to the deficiency of the lysosomal
+enzyme hexosaminidase A.31 Complete absence of the enzyme
+may be secondary to several mutations that in homozygosity or
+compound heterozygosity leads to the severe infantile form of
+the disease. Other mutations allow for the synthesis of an en-
+zyme with some residual activity and therefore are responsible
+for a milder form of the disease usually with adult onset.31
+Influence of a polymorphism in cis
+A dominant mutation may lead to different phenotypes de-
+pending upon the type of polymorphism present in the same
+gene in cis.
+Creutzfeld-Jakob disease and Fatal Familial Insomnia
+Both Creutzfeld-Jakob disease and Fatal Familial Insomnia
+are rare, autosomal-dominant, phenotypically distinct, and
+progressive neurological disorders. Although no sleep impair-
+ment has been reported in Creutzfeld-Jakob disease, the same
+mutation at codon 178 of the prion protein gene is responsible
+for both Creutzfeld-Jakob disease and Fatal Familial Insomnia.
+A different segregation of the valine-methionine polymor-
+phism in codon 129 was demonstrated in each of the two dis-
+eases (valine in Creutzfeld-Jakob disease and methionine in
+Fatal Familial Insomnia).32 Each different combination of the
+mutation at codon 178 and the polymorphism in codon 129
+produce different conformations of the prion protein with dif-
+ferent protease cleavage sites. As a result the abnormal iso-
+forms of the prion protein differ both in the relative abundance
+of the glycosylated forms and in the size of the protein resistant
+fragments.
+Imprinting
+According to the parent who transmits the mutation, a dif-
+ferent clinical presentation may be observed.
+Progressive osseous heteroplasia and Albright’s hereditary
+osteodystrophy
+Progressive osseous heteroplasia is a disease including clas-
+sically congenital malformations of the big toe and progressive
+heterotopic ossification of the skeletal muscles, tendons, liga-
+ments, and fascia.33 Patients affected with Albright’s hereditary
+osteodystrophy have short stature obesity, round face, short
+fourth metacarpal bones, and often subcutaneous calcifica-
+tions.34 In one family, the same mutation in the GNAS1 gene
+caused either progressive osseous heteroplasia when mater-
+nally inherited or Albright’s hereditary osteodystrophy when
+paternally inherited.35 Although several speculations have
+been proposed, the mechanism is still not understood.
+Somatic mosaicism
+The clinical syndrome may be different when the same mu-
+tation is present as a somatic mosaicism or in all the body cells.
+Epidermal nevus and epidermolytic hyperkeratosis
+Epidermal nevi frequently appear at birth or shortly after.
+Somatic mosaicism for a mutation in the gene for keratin 10 is
+responsible for some epidermal nevi.36 Mutations in the same
+gene also cause epidermolytic hyperkeratosis, which is a gen-
+eralized dermatological disease. Several families have been re-
+ported in whom a child was affected with epidermolytic hyper-
+keratosis due to a keratin 10 mutation in all the cells, whereas
+an epidermal nevus was found in the parent with the mutation
+present only in a mosaic state.
+CONCLUSION
+Nonpenetrance and differences in expressivity of mono-
+genic disorders in humans have been delineated very early in
+medical genetics. With the ability to understand the molecular
+basis for many monogenic diseases, some of the basic processes
+leading to nonpenetrance and differences in expressivity be-
+came clear. Still, for most of the cases, the complete mecha-
+nisms explaining either nonpenetrance or differences in ex-
+pressivity are not understood. Understanding the complexity
+of the factors leading to nonpenetrance or differences in ex-
+pressivity in “simple” monogenic traits will serve as a model for
+revealing the basis of complex traits.
+Penetrance and expressivity in the molecular age
+September/October 2003 � Vol. 5 � No. 5
+351
+
+
+
+Although the influence of modifiers and environmental fac-
+tors on monogenic disorders has been suspected, it is only
+recently that their molecular basis has begun to be understood.
+In many other cases, the mechanisms such as imprinting, di-
+genic inheritance, or expanding mutations came as a surprise
+to the medical geneticists, even though they have been previ-
+ously described in other organisms.
+Almost all the mechanisms to nonpenetrance and expressiv-
+ity are common; however, the distinction between the two
+phenomena is still important for genetic counseling. Because
+Neurofibromatosis type I is a disease with complete pen-
+etrance, the demonstration that the parents of an affected child
+have no clinical symptoms allow giving them a very small re-
+currence risk.2
+Understanding the basis for incomplete penetrance in some
+of the genetic diseases may be the key to prevent their symp-
+toms. For instance, in BRCA2–6174delT Ashkenazi Jewish
+carriers, the presence of the RAD51-135C allele results in an
+approximately 4-fold increase in breast cancer risk.37 The bio-
+logical effect of the polymorphism is not yet known, but it has
+been suggested that the RAD51 status might be useful in dif-
+ferentiating those carriers most likely to benefit from aggres-
+sive prevention measures from those in whom more conserva-
+tive management would be appropriate. The elucidation of the
+mechanisms protecting carriers of BRCA mutations from de-
+veloping cancer may help to develop appropriate preventive
+drugs.25,30
+References
+1.
+Stern C. Principles of human genetics, 3rd ed. San Francisco: WH Freeman and
+Company, 1973.
+2.
+Zlotogora J. Germline mosaicism. Hum Genet 1998;102:381–386.
+3.
+Tawil R, Figlewicz DA, Griggs RC, Weiffenbach B. Facioscapulohumeral dystrophy:
+a distinct regional myopathy with a novel molecular pathogenesis. FSH Consor-
+tium. Ann Neurol 1998;43:279–282.
+4.
+Sherman SL, Jacobs PA, Morton NE, Froster-Iskenius U, Howard-Peebles PN,
+Nielsen KB et al. Further segregation analysis of the fragile X syndrome with special
+reference to transmitting males. Hum Genet 1985;69:289–299.
+5.
+Fu Y-H, Kuhl DP, Pizzuti A, Pieretti M, Sutcliffe JS, Richards S et al. Variation of the
+CGG repeat at the fragile X site results in genetic instability: resolution of the Sher-
+man paradox. Cell 1991;67:1047–1058.
+6.
+Thigpen AE, Davis DL, Gautier T, Imperato-McGinley J, Russel DW. Brief report:
+the molecular basis of steroid 5� reductase deficiency in a large Dominican kindred.
+N Engl J Med 1994;327:1216–1220.
+7.
+Rivolta C, Sharon D, DeAngelis MM, Dryja TP. Retinitis pigmentosa and allied
+diseases: numerous diseases, genes and inheritance patterns. Hum Mol Genet 2002;
+11:1219–1227.
+8.
+McGee TL, Devoto M, Ott J, Berson EL, Dryja TP. Evidence that the penetrance of
+mutations at the RP11 locus causing dominant retinitis pigmentosa is influenced by
+a gene linked to the homologous RP11 allele. Am J Hum Genet 1997;61:1059–1066.
+9.
+Morisette J, Clepet C, Moisan S, Dubois S, Winstall E, Vermeeren D et al. Homozy-
+gotes carrying an autosomal dominant TIGR mutation do not manifest glaucoma.
+Nat Genet 1998;19:319–321.
+10.
+Riazuddin S, Castelein CM, Ahmed ZM, Lalwani AK, Mastroianni MA, Naz S et al.
+Dominant modifier DFNM1 suppresses recessive deafness DFNB26. Nat Genet
+2000;26:431–434.
+11.
+Sohocki MM, Daiger SP, Bowne SJ, Rodriquez JA, Northrup H, Heckenlively JR et
+al. Prevalence of mutations causing retinitis pigmentosa and other inherited reti-
+nopathies. Hum Mutat 2001;17:42–51.
+12.
+Kajiwara K, Berson EL, Dryja TP. Digenic retinitis pigmentosa due to mutations at
+the unlinked peripherin/RDS and ROM1 loci. Science 1994;264:1604–1608.
+13.
+Loewen CJ, Moritz OL, Molday RS. Molecular characterization of periferin 2 and
+rom mutants responsible for digenic retinitis pigmentosa. J Biol Chem 2001;276:
+22388–22396.
+14.
+Sheffield VC, Nishimura D, Stone EM. The molecular genetics of Bardet Biedl syn-
+drome. Curr Opin Genet Dev 2001;11:317–321.
+15.
+Katsanis N, Ansley SJ, Badano JL, Eichers ER, Lewis RA, Hoskins BE et al. Triallelic
+inheritance in Bardet-Biedl syndrome, a Mendelian recessive disorder. Science 2001;
+293:2256–2259.
+16.
+Williams CA, Lossie A, Driscoll D. Angelman syndrome: mimicking conditions and
+phenotypes. Am J Med Genet 2001;101:59–64.
+17.
+Matsuura T, Sutcliffe JS, Fang P, Galjaard R-J, Jiang Y, Benton CS et al. De novo
+truncating mutations in E6-AP ubiquitin-protein ligase gene (UBE3A) in Angelman
+syndrome. Nat Genet 1997;15:74–77.
+18.
+Prezant TR, Agapian JV, Bohlman MC, Bu X, Oztas S, Qiu W-Q et al. Mitochondrial
+ribosomal RNA mutation associated with both antibiotic-induced and non-syn-
+dromic deafness. Nat Genet 1993;4:289–294.
+19.
+Bykhovskaya Y, Yang H, Taylor K, Hang T, Tun RYM, Estivill X et al. Modifier locus
+for mitochondrial DNA disease: linkage and linkage disequilibrium mapping of a
+nuclear modifier gene for maternally inherited deafness. Genet Med 2001;3:177–180.
+20.
+Read AP, Newton VE. Waardenburg syndrome. J Med Genet 1997;34:656–665
+21.
+Zlotogora J, Lerer I, Bar-David S, Ergaz Z, Abeliovich D. Homozygosity for Waar-
+denburg syndrome. Am J Hum Genet 1995;56:1173–1178.
+22.
+Clain J, Fritsch J, Lehmann-Che J, Bali M, Arous N, Goossens M et al. Two mild
+cystic fibrosis-associated mutations result in severe cystic fibrosis when combined in
+cis and reveal a residue important for cystic fibrosis transmembrane conductance
+regulator processing and function. J Biol Chem 2001;276:9045–9049.
+23.
+Tse WT, Lux SE. Red blood cell membrane disorders. Br J Haematol 1999;10:213.
+24.
+Gratzer. Human genetics: Silence speaks in spectrin. Nature 1994;372:620–621.
+25.
+WuDunn D. Genetic basis of Glaucoma. Curr Opin Ophthalmol 2002;13:55–60.
+26.
+Vincent AL, Billingsley G, Buys Y, Levin AV, Priston M, Trope G et al. Digenic
+inheritance of early-onset glaucoma: CYP1B1, a potential modifier gene. Am J Hum
+Genet 2002;70:448–460.
+27.
+Howeler CJ, Busch HF, Geraedts JP, Niermeijer MF, Staal A. Anticipation in myo-
+tonic dystrophy: fact or fiction? Brain 1989;112:779–797.
+28.
+Ashizawa T, Dubel JR, Dunne PW, Dunne CJ, Fu YH, Pizzuti A et al. Anticipation in
+myotonic dystrophy, II: Complex relationships between clinical findings and struc-
+ture of the GCT repeat. Neurology 1992;42:1877–1883.
+29.
+Oppenheimer EH, Esterly JR. Observations on cystic fibrosis of the pancreas, V:
+Developmental changes in the male genital system. J Pediat 1996;75:806–811.
+30.
+Perheentupa J, Pikanen E. Symptomless hereditary fructose intolerance. Lancet
+1962;1:1358–1359.
+31.
+Myerowitz R. Tay-Sachs disease causing mutations and neutral polymorphisms in
+the Hex A gene. Hum Mut 1997;9:195–208.
+32.
+Monari L, Chen SG, Brown P, Parchi P, Petersen RB, Mikol J et al. Fatal Familial
+Insomnia and Familial Creutzfeldt-Jakob Disease: Different prion proteins deter-
+mined by a DNA polymorphism. Proc Natl Acad Sci U S A 1994;91:2839–2842.
+33.
+Kaplan FS, Shore EM. Progressive osseous heteroplasia. J Bone Miner Res 2000;15:
+2084–2094.
+34.
+Wilson LC, Trembath RC. Albright’s hereditary osteodystrophy. J Med Genet 1994;
+31:779–784.
+35.
+Shore EM, Ahn J, Jan de Beur S, Li M, Xu M, Gardner RJ et al. Paternally inherited
+inactivating mutations of the GNAS1 gene in progressive osseous heteroplasia.
+N Engl J Med 2002;346:99–106.
+36.
+Paller AS, Syderr AJ, Chan YM, Hutton E, Tadini G, Fuchs I. Genetic and clinical
+mosaicism in a type of epidermal nevus. N Engl J Med 1994;331:1447–1449.
+37.
+Levy-Lahad E, Lahad A, Eisenberg S, Dagan E, Paperna T, Kasinetz L et al. A single
+nucleotide polymorphism in the RAD51 gene modifies cancer risk in BRCA2 but not
+BRCA1 carriers. Proc Natl Acad Sci U S A 2001;98:3232–3236.
+Zlotogora
+352
+Genetics IN Medicine
+

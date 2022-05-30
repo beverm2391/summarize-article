@@ -1,0 +1,66 @@
+-
+rents was a germ-line mosaic for the FSHD1A mutation.4 In
+such cases, the penetrance is not 100% because not all of the
+offspring will inherit the mutant allele from the healthy parent.
+EXPRESSIVITY
+The expression of a phenotype is determined by many factors,
+including environmental influences and modifier genes. The
+expression of a phenotype can also be different in different or-
+gans. For example, retinoblastoma (an eye tumor) can be due to a
+germ-line mutation in RB1, but other tumors such as osteosarcoma
+(bone cancer) are not associated with this gene.5 The pheno-type of a disease may also vary within a family. Huntington’s disease,
+for example, has variable expressivity even within one fami-
+group, the autosomal-dominant glaucomas are rare. The most
+common type of autosomal-dominant glaucoma is juvenile
+open-angle glaucoma.9 In this disorder, there is a high intraocu-
+lar pressure and progressive optic nerve damage. The gene
+responsible for juvenile open-angle glaucoma has not been iden-
+tified. However, linkage studies have identified several loci
+that are associated with the disease.10 One such locus is on chro-
+one parental allele.16 The best-known example is the
+gene for insulin-like growth factor 2 (IGF2), which is expressed
+from the paternal allele in mice but from the maternal allele
+in humans.17 Mice carrying a mutation in the IGF2 gene that pre-
+vents its expression from the paternal allele are normal, while
+humans carrying this same mutation have severe growth retarda-
+tion. This difference is due to imprinting of the IGF2 gene. ion of the mutation in the family.
+
+This article discusses different ways that a mutation may cause differences in expressivity. For example, a mutation may cause different symptoms in different people or two groups of people with the same molecular genotype may present different symptoms.rosis
+The most common mutation in cystic fibrosis, DeltaF508, is
+present in about 70% of all patients with the disorder. How-
+ever, the clinical manifestations of the disease vary consid-
+erably between men and women. In men, the most common
+symptoms are pulmonary infection and pancreatic insuffi-
+ciency. In contrast, women are more likely to have infertility,
+menstrual irregularities, and a milder form of pulmonary dis-ease.29 This difference in phenotype between men and women is
+probably due to differences in the expression of the CFTR gene
+between the sexes.
+
+syndrome
+Progressive osseous heteroplasia is a rare autosomal-dominant
+condition characterized by the progressive replacement of nor-
+mal bone with fibrous tissue.33 Albright’s syndrome is asso-
+ciated with increased production of estrogen and is charac-
+terized by obesity, gynecomastia, and pseudohyperplastic endo-
+metrium.33 The two conditions are caused by mutations in the
+gene encoding for the alpha subunit of the stimulatory G protein
+(Gs alpha). In progressive osseous heteroplasia, the mutation is
+
+leber RG. Albright hereditary osteodystrophy:
+clinical and molecular features. J Clin Endocrinol Metab 2002;87:4609–4616.
+4.
+Griggs RC, Weleber RG, Tawil R, et al. Molecular basis of Albright hereditary os-
+teodystrophy: a mutation in the GNAS1 gene encoding for the alpha subunit of
+the stimulatory G protein. J Clin Endocrinol Metab 2000;85:2736–2741.
+5.
+Weleber RG, Griggs RC, Tawil R, et al. Progressive osseous heteroplasia is a dis-
+ease including clasically congenital malformations of the big toe and progres-
+sive heterotopic ossification of the skeletal muscles, tendons, ligaments, and fascia: a report on 33 patients with molecular confirmation. Am J Med Genet 2001;105:236–240. ��6174delT Ashkenazi Jewish carriers].37 The biological effect of the polymorphism is not yet knownarwal P, Kishnani PS. The molecular genetics of Pompe disease. Mol
+Genet Metab 2002;75:1–10.
+19.
+Dykes DD, Bamshad MJ, Nickerson DA, Shendure J, Eichler EE. Advances in the
+molecular diagnosis of genetic disorders: from single genes to whole genomes. Annu
+Rev Genomics Hum Genet 2003;4:217–244.
+20.
+Gahl WA, Matern D, Zackai EH, McDonald-McGinn DM, Emanuel BS, Driscoll DJ et al.
+Mutations in the gene encoding methylenetetrahydrofolate reductase (MTHFR) are a common cause of idiopathic mental retardation. Am J Hum Genet 1999;64:282–290
